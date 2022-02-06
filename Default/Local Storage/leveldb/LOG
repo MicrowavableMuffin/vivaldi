@@ -1,0 +1,6 @@
+2022/02/06-11:41:35.192 3 Reusing MANIFEST /home/cloudjoy/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2022/02/06-11:41:35.193 3 Recovering log #4
+2022/02/06-11:41:35.194 3 Reusing old log /home/cloudjoy/.config/vivaldi/Default/Local Storage/leveldb/000004.log 
+2022/02/06-12:01:28.509 4 Level-0 table #8: started
+2022/02/06-12:01:28.516 4 Level-0 table #8: 21331 bytes OK
+2022/02/06-12:01:28.519 4 Delete type=0 #4
