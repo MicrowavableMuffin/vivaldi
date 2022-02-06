@@ -1,7 +1,0 @@
-2022/01/24-19:22:47.201 42f8 Reusing MANIFEST /home/cloudjoy/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/01/24-19:22:47.201 42f8 Recovering log #3
-2022/01/24-19:22:47.201 42f8 Reusing old log /home/cloudjoy/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2022/01/24-19:46:00.151 464b Level-0 table #5: started
-2022/01/24-19:46:00.161 464b Level-0 table #5: 436322 bytes OK
-2022/01/24-19:46:00.163 464b Delete type=0 #3
-2022/01/24-19:46:00.163 464b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
